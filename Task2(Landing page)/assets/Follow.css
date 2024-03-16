@@ -1,0 +1,52 @@
+/* Follow.css */
+
+.follow-us {
+  text-align: center;
+  margin-bottom: 30px;
+  padding-bottom: 15%;
+}
+
+.follow-us h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  padding-top:17% ;
+}
+
+.social-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 0 10px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.social-icon svg {
+  font-size: 24px;
+  color: white;
+}
+
+.social-icon:hover {
+  transform: scale(1.2);
+}
+
+.facebook {
+  background: linear-gradient(135deg, #3b5998, #4c70ba);
+}
+
+.twitter {
+  background: linear-gradient(135deg, #1da1f2, #1a91da);
+}
+
+.instagram {
+  background: linear-gradient(135deg, #405de6, #5851db);
+}

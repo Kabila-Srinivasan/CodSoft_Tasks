@@ -1,0 +1,42 @@
+
+  
+ .tedy {
+    background-color: #305b4d2b;
+    padding: 20px;
+  }
+  
+  .headom {
+    text-align: center;
+    margin: 30px 0;
+  }
+  
+  .headom h1 {
+    font-size: 36px;
+  }
+  
+  .headom h2 {
+    font-size: 24px;
+    color: #007bff;
+  }
+  
+  .headom h3 {
+    font-size: 18px;
+    color: #333;
+  }
+ 
+  .aboutu {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  .quote1 {
+    text-align: center;
+    margin: 30px auto;
+  }
+  
+  .prof {
+    width: 300px;
+    height: auto;
+    border-radius: 50%;
+  }
+  

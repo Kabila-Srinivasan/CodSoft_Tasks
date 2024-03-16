@@ -1,0 +1,65 @@
+/* Reset default styles for some elements */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Global styling */
+ 
+  
+  /* Container styles */
+  #gettable {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px; /* Limit the width for better readability */
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border: 2px solid black; /* Bold black border */
+    border-radius: 10px;
+    margin: 20px;
+    overflow: hidden;
+  }
+  
+  /* Table header styles */
+  #gettable th {
+    background-color: #000;
+    color: #0dc92c;
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  /* Table cell styles */
+  #gettable td {
+    padding: 10px;
+    border: 1px solid #000; /* Black cell borders */
+    color: #000; /* Black text */
+  }
+  
+  /* Button styles */
+  #actions {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  /* Button hover effect */
+  #actions:hover {
+    background-color: #444; /* Darker black on hover */
+  }
+  
+  /* Responsive styles for smaller screens */
+  @media (max-width: 480px) {
+    #gettable {
+      margin: 10px;
+    }
+    
+    #gettable th, #gettable td {
+      padding: 8px;
+    }
+  }
+  

@@ -1,0 +1,32 @@
+/* ServiceBox.css */
+
+.service-box {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .service-box img {
+    width: 100px; /* Adjust image size as needed */
+    margin-bottom: 10px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .service-box h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .service-box p {
+    font-size: 1em;
+  }
+  
+  .service-box:hover {
+    transform: scale(1.05);
+  }
+  
