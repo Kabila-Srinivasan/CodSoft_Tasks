@@ -7,7 +7,7 @@ import PrivacyPolicy from './Pages/Privacy';
 import Aboutus from './Pages/Aboutus';
 import Contactus from './Pages/Contactus';
 import FeedbackForm from './Pages/form';
-import Submission from './Pages/submission';
+
 import Feedbacks from './Pages/Feedbacks';
 import Login from './Pages/Login';
 import AdminLogin from './Pages/AdminLogin';
