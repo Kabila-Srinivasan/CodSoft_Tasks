@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes} from 'react-router-dom';
 import './App.css'
 import Navbar from './Component/Navbar';
 import Footer from './Component/Footer';
-import TermsAndConditions from './Pages/TermsAndConditions';
+
 import PrivacyPolicy from './Pages/Privacy';
 import Aboutus from './Pages/Aboutus';
 import Contactus from './Pages/Contactus';
