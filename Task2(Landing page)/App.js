@@ -18,7 +18,7 @@ import OurServices from './Pages/OurServices';
 import Follow from './Pages/Follow';
 import Testimonials from './Testimonials';
 import LandingPage from './Pages/LandingPage';
-import ProductList from './Pages/ProductList';
+/*import ProductList from './Pages/ProductList';*/
 import GetData from './Pages/GetData';
 import EditData from './Pages/EditData';
 import FAQ from './Pages/Faq';
